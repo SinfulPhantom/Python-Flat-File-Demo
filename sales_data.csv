@@ -1,0 +1,17 @@
+Order Date,Product Category,Product Name,Unit Price,Quantity,Discount
+2022-01-01,Electronics,Laptop,1000,3,0.1
+2022-01-02,Electronics,Phone,500,3,0.05
+2022-01-03,Home & Garden,Chair,50,4,0
+2022-01-04,Home & Garden,Table,200,1,0.15
+2022-01-05,Electronics,TV,800,2,0
+2022-01-06,Clothing,Shirt,20,10,0.2
+2022-01-07,Clothing,Pants,30,5,0.1
+2022-01-08,Electronics,Headphones,100,4,0
+2022-01-09,Home & Garden,Plant,10,20,0.05
+2022-01-10,Electronics,Tablet,300,2,0.1
+2022-01-11,Clothing,Shoes,50,3,0
+2022-01-12,Clothing,Hat,15,8,0
+2022-01-13,Electronics,Gaming Monitor,350,5,0.1
+2022-01-15,Electronics,Phone Charger,20,10,0.1
+2022-01-16,Home & Garden,Bed,500,1,0
+2022-01-18,Electronics,PS5 Controller,50,5,0.05
